@@ -10,6 +10,8 @@
 ### 2020 :Formation d'Ingénieurs en 1°année:
 - UNILASALLE - Mont-Saint-Aignan 76130
 
+![This is a alt text.](Logo_UniLaSalle.png "This is a sample image.")
+
 ## COMPETENCES :
 
 ### Communication :
